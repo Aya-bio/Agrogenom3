@@ -30,6 +30,6 @@ export default defineConfig({
 
   assetsInclude: ['**/*.svg', '**/*.csv'],
 
-  // مهم جدًا للـ GitHub Pages
-  base: './',
+  // 🔥 مهم جدًا لGitHub Pages
+  base: '/Agrogenom3/',
 })
